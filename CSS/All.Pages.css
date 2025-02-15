@@ -1,5 +1,5 @@
 body {
-    background-image: src("Bilder/Hintergrund.jpg");
+    background-image: src("Bilder/Hintergrund.png");
     background-repeat: no-repeat;
     position: center;
     background-size: cover;
@@ -18,7 +18,7 @@ body {
 
 .Titel {
     text-align: center;
-    font-size: 5em;
+    font-size: 2.5em;
     color: red;
     font-weight: bold;
     font-style: italic;
