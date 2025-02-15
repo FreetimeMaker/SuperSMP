@@ -21,5 +21,10 @@ img {
 }
 
 .Info1 {
+    text-align: center;
+    font-size: 1.5em;
     color: aquamarine;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
 }
