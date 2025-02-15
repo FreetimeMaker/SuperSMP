@@ -1,0 +1,54 @@
+body {
+    background-image: src("https://cdn.discordapp.com/splashes/1134898814457741312/eb19d5e6c56118d66705e0c58e841ed6.jpg?size=1024");
+    background-repeat: no-repeat;
+    position: center;
+    background-size: cover;
+}
+
+.r3 {
+    width: 100%;
+    height: 33.3%;
+}
+
+.c4 {
+    width: 25%;
+    position: relative;
+    float: left;
+}
+
+.Titel {
+    text-align: center;
+    font-size: 5em;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Playwrite AT", cursive;
+    -webkit-text-stroke-color: pink;
+    -webkit-text-stroke-width: 0.125px;
+}
+
+.Infos {
+    text-align: center;
+    font-size: 1.5em;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5em;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: white;
+    font-family: "Playwrite AT", cursive;
+    -webkit-text-stroke-color: orange;
+    -webkit-text-stroke-width: 0.125px;
+}
