@@ -1,6 +1,7 @@
 .Align {
     max-width: 100%;
     text-align: center;
+    background-color: black;
 }
 
 .infogrid {
@@ -11,4 +12,10 @@
 .infoElement {
     border: 2px solid pink;
     padding: 3%;
+}
+
+img {
+    max-width: 250px;
+    max-height: 300px;
+    margin: 10px;
 }
