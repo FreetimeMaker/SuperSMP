@@ -24,7 +24,7 @@ body {
     font-style: italic;
     text-decoration: underline;
     text-decoration-color: orange;
-    font-family: "Playwrite AT", cursive;
+    font-family: "Pixelify Sans", sans-serif;
     -webkit-text-stroke-color: pink;
     -webkit-text-stroke-width: 0.125px;
 }
@@ -40,6 +40,18 @@ body {
     font-family: "Pixelify Sans", sans-serif;
 }
 
+.Join {
+    text-align: center;
+    font-size: 1.5em;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Pixelify Sans", sans-serif;
+
+}
+
 footer {
     text-align: center;
     font-size: 1.5em;
@@ -48,7 +60,7 @@ footer {
     font-style: italic;
     text-decoration: underline;
     text-decoration-color: white;
-    font-family: "Playwrite AT", cursive;
+    font-family: "Pixelify Sans", sans-serif;
     -webkit-text-stroke-color: orange;
     -webkit-text-stroke-width: 0.125px;
 }
