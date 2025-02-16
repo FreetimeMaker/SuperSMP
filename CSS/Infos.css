@@ -28,3 +28,21 @@ img {
     font-style: italic;
     font-family: "Pixelify Sans", sans-serif;
 }
+
+.Join1 {
+    text-align: center;
+    font-size: 1.5em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Join2 {
+    text-align: center;
+    font-size: 1.5em;
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
