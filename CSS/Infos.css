@@ -227,7 +227,7 @@ img {
 .Vote3 {
     text-align: center;
     font-size: 1.5m;
-    color: bronze;
+    color: blueviolet;
     font-weight: bold;
     font-style: italic;
     font-family: "Pixelify Sans", sans-serif;
@@ -236,7 +236,7 @@ img {
 .Vote4 {
     text-align: center;
     font-size: 1.5m;
-    color: black;
+    color: blue;
     font-weight: bold;
     font-style: italic;
     font-family: "Pixelify Sans", sans-serif;
@@ -284,7 +284,7 @@ img {
 }
 
 .Vote3:hover {
-    color: bronze;
+    color: blueviolet;
     text-align: center;
     font-weight: bold;
     font-style: italic;
@@ -292,7 +292,7 @@ img {
 }
 
 .Vote4:hover {
-    color: black;
+    color: green;
     text-align: center;
     font-weight: bold;
     font-style: italic;
