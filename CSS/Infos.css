@@ -70,3 +70,239 @@ img {
     font-style: italic;
     font-family: "Pixelify Sans", sans-serif;
 }
+
+.Rule1 {
+    text-align: center;
+    font-size: 1.5m;
+    color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule2 {
+    text-align: center;
+    font-size: 1.5m;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule3 {
+    text-align: center;
+    font-size: 1.5m;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule4 {
+    text-align: center;
+    font-size: 1.5m;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule5 {
+    text-align: center;
+    font-size: 1.5m;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule6 {
+    text-align: center;
+    font-size: 1.5m;
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule7 {
+    text-align: center;
+    font-size: 1.5m;
+    color: grey;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule8 {
+    text-align: center;
+    font-size: 1.5m;
+    color: violet;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule9 {
+    text-align: center;
+    font-size: 1.5m;
+    color: cyan;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule10 {
+    text-align: center;
+    font-size: 1.5m;
+    color: magenta;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule11 {
+    text-align: center;
+    font-size: 1.5m;
+    color: lime;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule12 {
+    text-align: center;
+    font-size: 1.5m;
+    color: teal;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Rule13 {
+    text-align: center;
+    font-size: 1.5m;
+    color: navy;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Store {
+    text-align: center;
+    font-size: 1.5m;
+    color: gold;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Discord {
+    text-align: center;
+    font-size: 1.5m;
+    color: silver;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote1 {
+    text-align: center;
+    font-size: 1.5m;
+    color: gold;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote2 {
+    text-align: center;
+    font-size: 1.5m;
+    color: silver;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote3 {
+    text-align: center;
+    font-size: 1.5m;
+    color: bronze;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote4 {
+    text-align: center;
+    font-size: 1.5m;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote5 {
+    text-align: center;
+    font-size: 1.5m;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Store:hover {
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Discord:hover {
+    color: silver;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote1:hover {
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote2:hover {
+    color: silver;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote3:hover {
+    color: bronze;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote4:hover {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Vote5:hover {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
